@@ -4,7 +4,7 @@ excerpt: "Your generated excerpt goes here"
 coverImage: "assets/blog/unveiling-natures-mysteries-exploring-the-science-of-marine-biology-and-spacetime.png"
 date: "2023-04-26T07:31:17.202Z"
 ogImage:
-  url: "assets/blog/unveiling-natures-mysteries-exploring-the-science-of-marine-biology-and-spacetime.png"
+  url: "/assets/blog/unveiling-natures-mysteries-exploring-the-science-of-marine-biology-and-spacetime.png"
 ---
 
 
