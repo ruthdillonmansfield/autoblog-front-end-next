@@ -4,7 +4,7 @@ excerpt: "Your generated excerpt goes here"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2023-04-26T06:42:50.559Z"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/investigating-the-wonders-of-the-ocean-unlocking-the-mysteries-of-marine-biology.png"
 ---
 
 
