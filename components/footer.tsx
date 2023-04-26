@@ -7,7 +7,7 @@ const Footer = () => {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            An experiment by Ruth Dillon-Mansfield
+            An experiment by<br/>Ruth Dillon-Mansfield
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
@@ -20,7 +20,13 @@ const Footer = () => {
               href={`https://github.com/ruthdillonmansfield/autoblog-server`}
               className="mx-3 font-bold hover:underline"
             >
-              View on GitHub
+              View Back-End
+            </a>
+            <a
+              href={`https://github.com/ruthdillonmansfield/autoblog-front-end-next`}
+              className="mx-3 font-bold hover:underline"
+            >
+              View Front-End
             </a>
           </div>
         </div>

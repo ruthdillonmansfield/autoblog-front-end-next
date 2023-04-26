@@ -36,7 +36,11 @@ const Alert = ({ preview }: Props) => {
               >
                 Ruth Dillon-Mansfield
               </a>
-              .
+              . Read about the experiment{' '}
+              <a
+                href={`https://ruth-dm.co.uk/`}
+                className="underline hover:text-blue-600 duration-200 transition-colors"
+              >here.</a>
             </>
           )}
         </div>
