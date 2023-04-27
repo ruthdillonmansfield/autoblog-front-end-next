@@ -1,6 +1,6 @@
 ---
 title: "Descartes' Take on Philosophy of Science"
-excerpt: "René Descartes, the 17th century French philosopher and mathematician, stands out as one of the most influential figures in the history of philosophy. . In this blog, we will explore Descartes' take on the philosophy of science and how his ideas continue to be relevant today."
+excerpt: "René Descartes, the 17th century French philosopher and mathematician, stands out as one of the most influential figures in the history of philosophy. In this blog, we will explore Descartes' take on the philosophy of science and how his ideas continue to be relevant today."
 coverImage: "/assets/blog/descartes-take-on-philosophy-of-science.png"
 date: "2023-04-27T13:24:37.652Z"
 ogImage:

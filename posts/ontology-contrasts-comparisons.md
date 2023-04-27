@@ -1,6 +1,6 @@
 ---
 title: "Ontology: Contrasts & Comparisons"
-excerpt: "Ontology, a technical topic in philosophy, has been studied throughout history and is still a divisive subject among contemporary philosophical circles. . In this blog, we will explore the contrasts and comparisons between ontology and its related topics, and consider the implications of these differences."
+excerpt: "Ontology, a technical topic in philosophy, has been studied throughout history and is still a divisive subject among contemporary philosophical circles. In this blog, we will explore the contrasts and comparisons between ontology and its related topics, and consider the implications of these differences."
 coverImage: "/assets/blog/ontology-contrasts-comparisons.png"
 date: "2023-04-27T13:44:48.104Z"
 ogImage:

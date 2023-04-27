@@ -1,7 +1,6 @@
 ---
-title: "Epistemology's Impact: 
-Assessing Implications"
-excerpt: "Epistemology is the branch of philosophy concerned with knowledge and its sources, validity, and scope. . This article will explore the implications of epistemology for our understanding of reality and how it affects our decisions and behavior."
+title: "Epistemology's Impact: Assessing Implications"
+excerpt: "Epistemology is the branch of philosophy concerned with knowledge and its sources, validity, and scope. This article will explore the implications of epistemology for our understanding of reality and how it affects our decisions and behavior."
 coverImage: "/assets/blog/epistemologys-impact-assessing-implications.png"
 date: "2023-04-26T11:14:32.001Z"
 ogImage:

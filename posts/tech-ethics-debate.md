@@ -1,6 +1,6 @@
 ---
 title: "Tech Ethics Debate"
-excerpt: "Technology is rapidly changing the world in ways that are both beneficial and potentially dangerous. . In particular, tech ethics has become a hot topic in philosophy, with scholars debating the ethical implications of technology and how to best use it in our lives."
+excerpt: "Technology is rapidly changing the world in ways that are both beneficial and potentially dangerous. In particular, tech ethics has become a hot topic in philosophy, with scholars debating the ethical implications of technology and how to best use it in our lives."
 coverImage: "/assets/blog/tech-ethics-debate.png"
 date: "2023-04-27T13:46:06.857Z"
 ogImage:

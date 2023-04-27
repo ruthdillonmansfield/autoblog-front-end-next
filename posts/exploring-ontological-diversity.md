@@ -1,6 +1,6 @@
 ---
 title: "Exploring Ontological Diversity"
-excerpt: "Ontological diversity is the range of perspectives and concepts that people can bring to the world. . It allows us to see the world in different ways and to question our assumptions."
+excerpt: "Ontological diversity is the range of perspectives and concepts that people can bring to the world. It allows us to see the world in different ways and to question our assumptions."
 coverImage: "/assets/blog/exploring-ontological-diversity.png"
 date: "2023-04-26T11:00:16.636Z"
 ogImage:

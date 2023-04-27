@@ -1,6 +1,6 @@
 ---
 title: "Wittgenstein's Language of Philosophy"
-excerpt: "Wittgenstein is one of the most influential philosophers of the 20th century, and his revolutionary approach to language has made a lasting impact. . Wittgenstein argued that language can be seen as a game, in which the rules are determined by the participants."
+excerpt: "Wittgenstein is one of the most influential philosophers of the 20th century, and his revolutionary approach to language has made a lasting impact. Wittgenstein argued that language can be seen as a game, in which the rules are determined by the participants."
 coverImage: "/assets/blog/wittgensteins-language-philosophy.png"
 date: "2023-04-26T10:57:08.816Z"
 ogImage:

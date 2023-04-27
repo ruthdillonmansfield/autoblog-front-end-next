@@ -1,6 +1,6 @@
 ---
 title: "Aesthetics & Philosophy: Implications Beyond"
-excerpt: "Aesthetic philosophy is a field of study that has grown increasingly popular in recent years. . It is a broad field that encompasses both the physical and intangible aspects of art, and its implications go beyond the simple appreciation of beauty."
+excerpt: "Aesthetic philosophy is a field of study that has grown increasingly popular in recent years. It is a broad field that encompasses both the physical and intangible aspects of art, and its implications go beyond the simple appreciation of beauty."
 coverImage: "/assets/blog/aesthetics-philosophy-implications-beyond.png"
 date: "2023-04-27T13:31:32.745Z"
 ogImage:
