@@ -29,7 +29,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              Autoblog is an SEO experiment by{' '}
+              Autoblog is an AI experiment by{' '}
               <a
                 href={`https://ruth-dm.co.uk/`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
