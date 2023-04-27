@@ -1,7 +1,5 @@
 ---
-title: "Philosophical Implications of the 'Genie Experiment'.
-
-The 'Genie Experiment' is a thought experiment in philosophy of religion which explores the idea of free will,"
+title: "Philosophical Implications of the 'Genie Experiment'"
 excerpt: "The 'Genie Experiment' is a hypothetical experiment based on the notion of free will. ? In other words, would you be able to make your own decisions and be the master of your own destiny?"
 coverImage: "/assets/blog/philosophical-implications-of-the-genie-experiment-the-genie-experiment-is-a-thought-experiment-in-philosophy-of-religion-which-explores-the-idea-of-free-will.png"
 date: "2023-04-27T14:09:54.559Z"
