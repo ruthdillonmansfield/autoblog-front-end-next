@@ -1,7 +1,5 @@
 ---
-title: "Exploring the Limits of Ontology: Schrödinger's Cat.
-
-Schrödinger's Cat is a thought experiment that explores the limits of ontology, which"
+title: "Exploring the Limits of Ontology: Schrödinger's Cat."
 excerpt: "Schrödinger's Cat is a thought experiment proposed by the Austrian physicist Erwin Schrödinger in 1935. It is designed to illustrate the problems of quantum mechanics and the limits of our understanding of ontology."
 coverImage: "/assets/blog/exploring-the-limits-of-ontology-schrdingers-cat-schrdingers-cat-is-a-thought-experiment-that-explores-the-limits-of-ontology-which.png"
 date: "2023-04-29T08:00:20.682Z"
