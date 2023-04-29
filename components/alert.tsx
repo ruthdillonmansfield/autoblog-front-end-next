@@ -38,7 +38,7 @@ const Alert = ({ preview }: Props) => {
               </a>
               . Read about the experiment{' '}
               <a
-                href={`https://ruth-dm.co.uk/`}
+                href={`https://ruth-dm.co.uk/autoblog-seo-project/`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >here.</a>
             </>
