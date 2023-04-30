@@ -1,10 +1,10 @@
 ---
 title: "The Paradox of Logic: Exploring The Trolley Problem"
 excerpt: "The Trolley Problem is a thought experiment in philosophy, which explores the moral and logical implications of making a difficult decision. The problem has been used to analyze many ethical theories, and it presents a paradoxical situation that is not easily solved."
-coverImage: "/assets/blog/the-paradox-of-logic-exploring-the-trolley-problem.png"
+coverImage: "/assets/blog/train.png"
 date: "2023-04-30T08:20:03.584Z"
 ogImage:
-  url: "/assets/blog/the-paradox-of-logic-exploring-the-trolley-problem.png"
+  url: "/assets/blog/train.png"
 ---
 
 The Trolley Problem is a thought experiment in philosophy, which explores the moral and logical implications of making a difficult decision. The problem has been used to analyze many ethical theories, and it presents a paradoxical situation that is not easily solved. In this blog, we will explore the paradoxical nature of the Trolley Problem and its implications for morality and logic.
