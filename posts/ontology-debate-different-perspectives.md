@@ -1,10 +1,10 @@
 ---
 title: "Ontology Debate: Different Perspectives"
 excerpt: "The ontology debate is one of the longest standing and most contested topics in philosophy. It refers to the debate between realism and anti-realism in metaphysics, or the belief in the existence of a reality independent of our own."
-coverImage: "/assets/blog/ontology-debate-different-perspectives.png"
+coverImage: "/assets/blog/ontology-perspectives.png"
 date: "2023-05-04T20:08:57.365Z"
 ogImage:
-  url: "/assets/blog/ontology-debate-different-perspectives.png"
+  url: "/assets/blog/ontology-perspectives.png"
 ---
 
 The ontology debate is one of the longest standing and most contested topics in philosophy. It refers to the debate between realism and anti-realism in metaphysics, or the belief in the existence of a reality independent of our own. This debate has been going on for over two thousand years, with different philosophers taking different positions on the issue.
