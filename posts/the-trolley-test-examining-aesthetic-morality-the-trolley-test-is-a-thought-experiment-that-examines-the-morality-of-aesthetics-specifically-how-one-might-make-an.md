@@ -1,7 +1,5 @@
 ---
-title: "The Trolley Test: Examining Aesthetic Morality 
-
-The Trolley Test is a thought experiment that examines the morality of aesthetics - specifically, how one might make an"
+title: "The Trolley Test: Examining Aesthetic Morality"
 excerpt: "The Trolley Test is a thought experiment first proposed by British philosopher Philippa Foot in 1967. It is a tool used to evaluate a person's moral judgments."
 coverImage: "/assets/blog/the-trolley-test-examining-aesthetic-morality-the-trolley-test-is-a-thought-experiment-that-examines-the-morality-of-aesthetics-specifically-how-one-might-make-an.png"
 date: "2023-05-09T19:02:34.396Z"
